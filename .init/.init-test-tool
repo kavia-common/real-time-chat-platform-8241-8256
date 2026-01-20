@@ -1,0 +1,4 @@
+{
+    "command": "pytest",
+    "working_directory": "/tmp/kavia/workspace/code-generation/real-time-chat-platform-8241-8256/chat_backend"
+}
